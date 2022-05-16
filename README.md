@@ -1,7 +1,7 @@
 # MajorProjectInterviewChatbot
 
 This project consists of four modules:
-1.Skill Extraction from Resume 
+1.Skill Extraction from Resume\n
 2.Question Generation using the Keywords from Interview Answers
 3.Answer Evaluation using Semantic Similarity 
 4.Face Detection while answering the interview Question
